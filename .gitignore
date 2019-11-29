@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# VS code folders
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
@@ -84,6 +87,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.flask/
 env/
 venv/
 ENV/
